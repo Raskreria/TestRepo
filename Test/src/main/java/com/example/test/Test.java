@@ -8,7 +8,10 @@ public class Test {
 
 
         System.out.println("메인에서 추가 sout 작성 또 다시");
+
         System.out.println("메인에서 추가 sout 작성 또 다시");
         System.out.println("메인에서 추가 sout 작성 또 다시");
+
+
     }
 }
